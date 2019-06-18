@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ubbim",
-    "currentPage": "about.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -67,7 +67,7 @@
       }
     ],
     "uniqCompNum": 50,
-    "versionPublish": "4.10.3",
+    "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": ""
